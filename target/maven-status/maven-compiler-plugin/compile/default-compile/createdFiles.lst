@@ -1,0 +1,9 @@
+com/Spring/pagination/service/PaginationService.class
+com/Spring/pagination/service/EmployeService.class
+com/Spring/pagination/PaginationApplication.class
+com/Spring/pagination/controller/PaginationController.class
+com/Spring/pagination/repository/EmployeRepository.class
+com/Spring/pagination/controller/EmployeController.class
+com/Spring/pagination/repository/PaginationRepository.class
+com/Spring/pagination/entity/customers.class
+com/Spring/pagination/entity/Employe.class
